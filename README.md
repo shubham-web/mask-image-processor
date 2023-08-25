@@ -1,4 +1,4 @@
-# Background Removal Tool
+# Not So Automatic Background Removal Tool
 
 The Background Removal Tool is a web application that allows users to remove backgrounds from images using a mask and an input image. It's a simple tool that helps you create transparent backgrounds for your images.
 
